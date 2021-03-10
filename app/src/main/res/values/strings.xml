@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="herbs_name">Name</string>
+    <string name="description">Descriptions</string>
+    <string name="efficacy">Efficacy</string>
+    <string name="share">Share</string>
+</resources>
